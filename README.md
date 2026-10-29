@@ -1,6 +1,6 @@
 # Heena Store
 
-Demo e-commerce web app for roasted peanuts, chana (chickpeas) and dry fruits.
+App-style demo e-commerce web app for roasted peanuts, chana (chickpeas) and dry fruits: product pages, saved items, cart, checkout with delivery slots, UPI payment and order tracking.
 
 - Payment by UPI only (QR code, UPI ID, UPI app link)
 - Cash on Delivery disabled
